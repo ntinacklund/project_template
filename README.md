@@ -24,6 +24,10 @@ Du påbörjar ditt projekt med att planera. Detta görs genom en projektplan med
 
 Projektplanen är det Google Sheet-arket som finns på classroom.
 
+### Flödesschema
+
+I första stadiet av projektet bör du även skissa upp ett flödesschema i förslagsvis draw.io som ska tillhöra ditt program. Tänk på vad de olika symbolerna betyder, samt att du inte har överflödiga punkter i schemat, eller att det är oläsbart.
+
 ## Författare
 
 Niclas Lund
